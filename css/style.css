@@ -1,5 +1,5 @@
 /* My Styles */
-@import "css/britney.css";
+@import url('britney.css');
 @font-face {
     font-family: 'Britney-Regular';
     src: url('../fonts/Britney-Regular.woff2') format('woff2'),
