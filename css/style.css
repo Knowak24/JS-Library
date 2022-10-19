@@ -1,9 +1,11 @@
 /* My Styles */
+@import url('britney.css');
 
-body {
-    background: lightgray;
+body{
+    background:black;
 }
 h1{
+    font-family: 'Britney-Regular';
     text-align:center;
     color:darkgreen;
   }
