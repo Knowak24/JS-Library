@@ -1,5 +1,5 @@
 /* My Styles */
-@import url('britney.css');
+@import "css/britney.css";
 
 body{
     background:black;
